@@ -1,0 +1,18 @@
+* {
+    margin:0;
+    padding:0;
+    }
+
+nav ol {
+    list-style-type: none;
+    }
+   
+   nav ul {
+    list-style-type: none;
+    }
+   
+
+.titulo-padre {
+    color: blueviolet;
+    font-size: 40px;
+    }
